@@ -2,6 +2,7 @@
   "name": "nutriapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://estudiemosnutricion.github.io/nutriapp/build",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
